@@ -6,10 +6,21 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 
 ## Shortcuts
 
+|Function|Combination|
+-|-
+|Switch to Windows keyboard mode|`Fn + A`|
+|Switch to Mac keyboard mode|`Fn + S`|
+|Lock Win-key| `Fn + Win` |
+|Switch to device 1 | `Fn + Q` |
+|Switch to device 2 | `Fn + W` |
+|Switch to device 3 | `Fn + E` |
+
 
 ## Layers
 
-### Layer 1 (Default)
+Layers for RK61 cycles when you press `Fn + left :ctrl:`
+
+### Layer 1 (Default or left :ctrl:, :ctrl:, :ctrl:)
 
 |<td colspan=1> esc  <td colspan=2>1! <td colspan=2>2@ <td colspan=2>3# <td colspan=2> 4$ <td colspan=2> 5% <td colspan=2> 6^ <td colspan=2> 7& <td colspan=2> 8* <td colspan=2> 9( <td colspan=2> 0) <td colspan=2> -_ <td colspan=2> =+ <td colspan=2> :arrow_left: Backspace |
 --
@@ -20,11 +31,15 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 
 ### Layer 2 ( Fn + left :ctrl:)
 
+
+### Layer 3 ( Fn + left :ctrl:, left :ctrl:)
+
 ## Tricks
 
 When using the directional keys, I always have layer 1 on. I'll use my ring finger to hold the Fn key to cue the directional key layers and press the directional keys using either my index or middle finger. Some might be comfortable with having the pinky finger to hold the Fn key. Whatever floats your boat.
 
-#Reference
+# Reference
+
 - [Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908)
 - [Extended Emoji Cheatsheet](https://gist.github.com/endolith/157796)
 - [Copy of RK61 user manual](https://cdn.shopify.com/s/files/1/0510/7866/0274/files/RK61_User_Manual_cb7c7218-622c-4bd9-83ad-56980415b5f9.pdf?v=1614161829)
