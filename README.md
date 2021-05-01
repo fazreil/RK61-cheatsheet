@@ -18,7 +18,7 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 <td colspan=4> :arrow_up: Shift  <td colspan=2>Z <td colspan=2>X <td colspan=2>C <td colspan=2>V <td colspan=2>B <td colspan=2>N <td colspan=2>M <td colspan=2>,< <td colspan=2>.> <td colspan=2>/? <td colspan=3> :arrow_up: Shift
 |<td colspan=1> Ctrl  <td colspan=2> Win <td colspan=2> Alt <td colspan=14> <p align="center">_</p> <td colspan=3> Alt <td colspan=2> Menu <td colspan=2> Ctrl <td colspan=1> Fn
 
-### Layer 2 ( left :ctrl: + Fn)
+### Layer 2 ( Fn + left :ctrl:)
 
 ## Tricks
 
