@@ -72,6 +72,23 @@ Access these functions with combination on Layer 1
 
 ### Layer 2 ( Fn + left :ctrl:)
 
+<table>
+<tr>
+<td colspan=1> &#96; <td colspan=2>F1 <td colspan=2>F2 <td colspan=2>F3 <td colspan=2> F4 <td colspan=2>F5 <td colspan=2>F6 <td colspan=2>F7 <td colspan=2>F8 <td colspan=2>F9 <td colspan=2>F10 <td colspan=2>F11 <td colspan=2>F12 <td colspan=3> Delete
+</tr>
+<tr>
+<td colspan=2>Tab  <td colspan=2>Q <td colspan=2>W <td colspan=2>E <td colspan=2>R <td colspan=2>T <td colspan=2>PrtSc <td colspan=2>ScrLK <td colspan=2>Pause <td colspan=2>O <td colspan=2>P <td colspan=2>[ { <td colspan=2>] } <td colspan=2>\ &#124;
+</tr>
+<tr>
+<td colspan=3> Caps Lock  <td colspan=2>A <td colspan=2>S <td colspan=2>D <td colspan=2> F <td colspan=2> G <td colspan=2> Insert <td colspan=2> Home <td colspan=2> PgUp <td colspan=2> L <td colspan=2> ; : <td colspan=2> ' " <td colspan=2> Enter :leftwards_arrow_with_hook:
+</tr>
+<tr>
+<td colspan=4> :arrow_up: Shift  <td colspan=2>Z <td colspan=2>X <td colspan=2>C <td colspan=2>V <td colspan=2>B <td colspan=2>Del <td colspan=2>End <td colspan=2>PgDn < <td colspan=2>. > <td colspan=2>/ ? <td colspan=3> :arrow_up: Shift
+</tr>
+<tr>
+<td colspan=1> Ctrl  <td colspan=2> Win <td colspan=2> Alt <td colspan=14> <p align="center">_</p> <td colspan=3> Alt <td colspan=2> Menu <td colspan=2> Ctrl <td colspan=1> Fn
+</tr>
+</table>
 
 ### Layer 3 ( Fn + left :ctrl:, left :ctrl:)
 
