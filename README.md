@@ -21,7 +21,7 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 
 |Function|Combination|
 -|-
-|Switch lighting patterns|`Fn + \\`|
+|Switch lighting patterns|`Fn + \`|
 |Increase light brightness|`Fn + ]`|
 |Decrease light brightness|`Fn + [`|
 |Increase light changing speed|`Fn + '`|
