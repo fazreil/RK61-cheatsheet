@@ -52,6 +52,24 @@ Layers for RK61 cycles when you press `Fn + left :ctrl:`
 </tr>
 </table>
 
+Access these functions with combination on Layer 1
+
+| Function | Combination |
+-|-
+|Print Screen|`Fn + Y` or `Fn + :PrtSc:`|
+|Scroll Lock| `Fn + U` or `Fn + :ScrLK:`|
+|Pause| `Fn + I` or `Fn + :Pause:`|
+|Insert| `Fn + H` or `Fn + :Insert:`|
+|Home| `Fn + J` or `Fn + :Home:`|
+|Page Up| `Fn + K` or `Fn + :PgUp:`|
+|Delete| `Fn + N` or `Fn + :Del:` or `Fn + :Backspace:` |
+|End | `Fn + M` or `Fn + :End:`|
+|Page Down| `Fn + ,` or `Fn + :PgDn:`|
+| :arrow_up_small: | `Fn + /` or `Fn + `:arrow_up_small:|
+|:arrow_backward:| `Fn + Right :Alt:` or `Fn +`:arrow_backward:|
+|:arrow_down_small:| `Fn + :Menu:` or `Fn +`:arrow_down_small:|
+|:arrow_forward:|`Fn + Right :Ctrl:` or `Fn + `:arrow_forward:|
+
 ### Layer 2 ( Fn + left :ctrl:)
 
 
@@ -61,9 +79,9 @@ Layers for RK61 cycles when you press `Fn + left :ctrl:`
 
 ### Directional Keys
 
-When using the directional keys, I always have layer 1 on. I'll use my ring finger to hold the Fn key to cue the directional key layers and press the directional keys using either my index or middle finger. Some might be comfortable with having the pinky finger to hold the Fn key.
+When using the directional keys, I always have layer 1 on. I'll use my ring finger to hold the `Fn` key to cue the directional key layers and press the directional keys using either my index or middle finger. Some might be comfortable with having the pinky finger to hold the `Fn` key.
 
-To toggle directional keys as active keys, press `Fn + Enter`. The `/`,right `Alt`,`Menu`, right `Ctrl` will be swapped with :arrow_up:,:arrow_left:,:arrow_down:,:arrow_right: respectively.
+To toggle directional keys as active keys, press `Fn + Enter`. The `/`,right `Alt`,`Menu`, right `Ctrl` will be swapped with :arrow_up_small:,:arrow_backward:,:arrow_down_small:,:arrow_forward: respectively.
 
 # Reference
 
