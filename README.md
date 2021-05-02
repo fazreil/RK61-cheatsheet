@@ -36,16 +36,16 @@ Layers for RK61 cycles when you press `Fn + left :ctrl:`
 
 <table>
 <tr>
-<td colspan=1> esc  <td colspan=2>1! <td colspan=2>2@ <td colspan=2>3# <td colspan=2> 4$ <td colspan=2> 5% <td colspan=2> 6^ <td colspan=2> 7& <td colspan=2> 8* <td colspan=2> 9( <td colspan=2> 0) <td colspan=2> -_ <td colspan=2> =+ <td colspan=3> :arrow_left: Backspace
+<td colspan=1> esc  <td colspan=2>1 ! <td colspan=2>2 @ <td colspan=2>3 # <td colspan=2> 4 $ <td colspan=2> 5 % <td colspan=2> 6 ^ <td colspan=2> 7 & <td colspan=2> 8 * <td colspan=2> 9 ( <td colspan=2> 0 ) <td colspan=2> - _ <td colspan=2> = + <td colspan=3> :arrow_left: Backspace
 </tr>
 <tr>
-<td colspan=2>Tab  <td colspan=2>Q <td colspan=2>W <td colspan=2>E <td colspan=2>R <td colspan=2>T <td colspan=2>Y <td colspan=2>U <td colspan=2>I <td colspan=2>O <td colspan=2>P <td colspan=2>[{ <td colspan=2>]} <td colspan=2>\\&#124;
+<td colspan=2>Tab  <td colspan=2>Q <td colspan=2>W <td colspan=2>E <td colspan=2>R <td colspan=2>T <td colspan=2>Y <td colspan=2>U <td colspan=2>I <td colspan=2>O <td colspan=2>P <td colspan=2>[ { <td colspan=2>] } <td colspan=2>\ &#124;
 </tr>
 <tr>
-<td colspan=3> Caps Lock  <td colspan=2>A <td colspan=2>S <td colspan=2>D <td colspan=2> F <td colspan=2> G <td colspan=2> H <td colspan=2> J <td colspan=2> K <td colspan=2> L <td colspan=2> ;: <td colspan=2> '" <td colspan=2> Enter :leftwards_arrow_with_hook:
+<td colspan=3> Caps Lock  <td colspan=2>A <td colspan=2>S <td colspan=2>D <td colspan=2> F <td colspan=2> G <td colspan=2> H <td colspan=2> J <td colspan=2> K <td colspan=2> L <td colspan=2> ; : <td colspan=2> ' " <td colspan=2> Enter :leftwards_arrow_with_hook:
 </tr>
 <tr>
-<td colspan=4> :arrow_up: Shift  <td colspan=2>Z <td colspan=2>X <td colspan=2>C <td colspan=2>V <td colspan=2>B <td colspan=2>N <td colspan=2>M <td colspan=2>,< <td colspan=2>.> <td colspan=2>/? <td colspan=3> :arrow_up: Shift
+<td colspan=4> :arrow_up: Shift  <td colspan=2>Z <td colspan=2>X <td colspan=2>C <td colspan=2>V <td colspan=2>B <td colspan=2>N <td colspan=2>M <td colspan=2>, < <td colspan=2>. > <td colspan=2>/ ? <td colspan=3> :arrow_up: Shift
 </tr>
 <tr>
 <td colspan=1> Ctrl  <td colspan=2> Win <td colspan=2> Alt <td colspan=14> <p align="center">_</p> <td colspan=3> Alt <td colspan=2> Menu <td colspan=2> Ctrl <td colspan=1> Fn
@@ -59,7 +59,11 @@ Layers for RK61 cycles when you press `Fn + left :ctrl:`
 
 ## Tricks
 
-When using the directional keys, I always have layer 1 on. I'll use my ring finger to hold the Fn key to cue the directional key layers and press the directional keys using either my index or middle finger. Some might be comfortable with having the pinky finger to hold the Fn key. Whatever floats your boat.
+### Directional Keys
+
+When using the directional keys, I always have layer 1 on. I'll use my ring finger to hold the Fn key to cue the directional key layers and press the directional keys using either my index or middle finger. Some might be comfortable with having the pinky finger to hold the Fn key.
+
+To toggle directional keys as active keys, press `Fn + Enter`. The `/`,right `Alt`,`Menu`, right `Ctrl` will be swapped with :arrow_up:,:arrow_left:,:arrow_down:,:arrow_right: respectively.
 
 # Reference
 
