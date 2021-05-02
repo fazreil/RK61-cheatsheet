@@ -6,6 +6,8 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 
 ## Shortcuts
 
+### Regular Functions
+
 |Function|Combination|
 -|-
 |Switch to Windows keyboard mode|`Fn + A`|
@@ -15,6 +17,16 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 |Switch to device 2 | `Fn + W` |
 |Switch to device 3 | `Fn + E` |
 
+### RGB Functions
+
+|Function|Combination|
+-|-
+|Switch lighting patterns|`Fn + \\`|
+|Increase light brightness|`Fn + ]`|
+|Decrease light brightness|`Fn + [`|
+|Increase light changing speed|`Fn + '`|
+|Decrease light changing speed|`Fn + ;`|
+|Change RGB Color|`Fn + .`|
 
 ## Layers
 
