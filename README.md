@@ -287,6 +287,21 @@ When using the directional keys, I always have layer 1 on. I'll use my ring fing
 
 To toggle directional keys as active keys, press `Fn + Enter`. The `/`,right `Alt`,`Menu`, right `Ctrl` will be swapped with :arrow_up_small:,:arrow_backward:,:arrow_down_small:,:arrow_forward: respectively.
 
+### Something weird when I am connected via cable...
+
+When I am connected via cable I get a different result for the F? keys. I am getting media control, brightness and stuff when I am press the Fn+F? key combination. This only happen on cable connection.
+
+| Function | Combination |
+-|-
+| Reduce brightness | Fn + F1 |
+| Increase brightness | Fn + F2 |
+| Previous Track | Fn + F7 |
+| Pause/Play media | Fn + F8 |
+| Next Track | Fn + F9 |
+| Mute/Unmute sound | Fn + F0 |
+| Decrease Volume | Fn + F11 |
+| Increase Volume | Fn + F12 |
+
 # Reference
 
 - [Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908)
