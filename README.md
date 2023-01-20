@@ -17,6 +17,7 @@ This cheatsheet lists down all the necessary shortcuts for the 60% keyboard RK61
 |Switch to device 2 | `Fn + W` |
 |Switch to device 3 | `Fn + E` |
 |Directional Key Toggle| `Fn + :Enter:`|
+|Fn Key Toggle| `Fn + left ctrl`|
 
 ### RGB Functions
 
